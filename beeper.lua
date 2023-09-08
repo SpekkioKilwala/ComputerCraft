@@ -1,1 +1,1 @@
-say "beep"
+say("beep")
