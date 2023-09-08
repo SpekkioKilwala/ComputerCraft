@@ -1,1 +1,1 @@
-say("beep")
+print("beep")
